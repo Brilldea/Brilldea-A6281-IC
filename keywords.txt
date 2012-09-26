@@ -1,0 +1,9 @@
+BrilldeaA6281	KEYWORD1
+DotCorrectionSetbyIC	KEYWORD2
+DotCorrectionSetAllIC	KEYWORD2
+SendPacketDotCorrection	KEYWORD2
+IntensitySetByIC	KEYWORD2
+IntensitySetAllIC	KEYWORD2
+SendPacketIntensity	KEYWORD2
+EnableIC	KEYWORD2
+
