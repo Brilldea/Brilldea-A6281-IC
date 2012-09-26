@@ -7,7 +7,7 @@ The A6281 IC is a 3 channel, constant current LED driver with 12-bit control of 
 Brilldea uses the A6281 IC in the LED Painter II-8 and the PolkaDOT-51.  Check them out at Brilldea's web site:  http://www.brilldea.com/
 
 This library is written by Timothy D. Swieter, P.E. for Brilldea.
-MIT license, all text above must be included in any redistribution.  
+BSD license, all text above must be included in any redistribution.  
 
 To download. click the DOWNLOADS button in the top right corner, then select DOWNLOAD AS ZIP.  Rename the uncompressed folder to be "Brilldea-A6281". Check that the "Brilldea-A6281" folder contains BrilldeaA6281.cpp, BrilldeaA6281.h, keywords.txt and an examples folder.  
 
