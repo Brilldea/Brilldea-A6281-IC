@@ -9,6 +9,6 @@ Brilldea uses the A6281 IC in the LED Painter II-8 and the PolkaDOT-51.  Check t
 This library is written by Timothy D. Swieter, P.E. for Brilldea.
 BSD license, all text above must be included in any redistribution.  
 
-To download. click the DOWNLOADS button in the top right corner, rename the uncompressed             folder Brilldea-A6281. Check that the Brilldea-A6281 folder contains BrilldeaA6281.cpp, BrilldeaA6281.h, and examples folder and keywords.txt.  
+To download. click the DOWNLOADS button in the top right corner, then select DOWNLOAD AS ZIP.  Rename the uncompressed folder to be "Brilldea-A6281". Check that the "Brilldea-A6281" folder contains BrilldeaA6281.cpp, BrilldeaA6281.h, keywords.txt and an examples folder.  
 
-Place the Brilldea-A6281 library folder in your (arduinosketchfolder)/libraries/ folder. You may need to create the libraries subfolder if its your first library. Restart the IDE.
+Place the "Brilldea-A6281" library folder in your Arduino Library folder.  You may need to create the libraries subfolder if its your first library. Restart the IDE.  Then you should see the examples listed in the File:Examples menu.
